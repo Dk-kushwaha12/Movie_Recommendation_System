@@ -1,4 +1,3 @@
-# Movie_Recommendation_System
 🎬 Movie Recommendation System
 
 This is a movie recommendation system built using Streamlit. It recommends similar movies based on content similarity.
